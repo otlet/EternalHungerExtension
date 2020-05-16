@@ -1,0 +1,10 @@
+name: EternalHunger
+version: 1.0-SNAPSHOT
+main: com.idkcloud.EternalHungerExtension
+description: Extension for HungerGames plugin
+api-version: 1.15
+author: otlet
+website: www.idkcloud.com
+prefix: EternalHunger
+depend:
+  - HungerGames
